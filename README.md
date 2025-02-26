@@ -2,9 +2,8 @@
 
 👋 Olá! Atualmente sou estudante de Ciências da Computação com foco em Front-End. Sempre aprendendo novas tecnologias para aprimorar minhas habilidades.
 
-<hr>
 
-💻 Tecnologias e Ferramentas:
+## 💻 Tecnologias e Ferramentas:
 
 - ✨ Front-End: HTML, CSS, JavaScript
 - 🛠️ Ferramentas: Git, GitHub, Figma
@@ -16,13 +15,11 @@
   <img align="center" alt="kaori-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<hr>
-
-👥 Conecte-se Comigo
+## 👥 Conecte-se Comigo
 
 - 🔗 [LinkedIn](www.linkedin.com/in/natasha-yonamine)
 - 📧 [Email](mailto:natashayonamine@gmail.com)
 
-<hr>
+## Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=natashayasu&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
