@@ -1,6 +1,6 @@
-## Olá! Me chamo Natasha Kaori 👋
+# Natasha Kaori
 
-Atualmente sou estudante de Ciências da Computação com foco em Front-End. Sempre aprendendo novas tecnologias para aprimorar minhas habilidades.
+👋 Olá! Atualmente sou estudante de Ciências da Computação com foco em Front-End. Sempre aprendendo novas tecnologias para aprimorar minhas habilidades.
 
 <hr>
 
