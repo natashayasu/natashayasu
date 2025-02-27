@@ -1,5 +1,7 @@
 # Natasha Kaori
 
+**`Desenvolvedora Front-end`**
+
 👋 Olá! Atualmente sou estudante de Ciências da Computação com foco em Front-End. Sempre aprendendo novas tecnologias para aprimorar minhas habilidades.
 
 
@@ -20,6 +22,22 @@
 - 🔗 [LinkedIn](www.linkedin.com/in/natasha-yonamine)
 - 📧 [Email](mailto:natashayonamine@gmail.com)
 
-## Stats
+## 📊 Estatísticas
 
-![](https://github-readme-stats.vercel.app/api?username=natashayasu&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=natashayasu&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img
+align="left"
+alt="GitHub Stats"
+height="200"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=natashayasu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+/>
+
+</p>
