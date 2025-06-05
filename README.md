@@ -19,7 +19,7 @@
 
 ## 👥 Conecte-se Comigo
 
-- 🔗 [LinkedIn](www.linkedin.com/in/natasha-yonamine)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/natasha-yonamine/)
 - 📧 [Email](mailto:natashayonamine@gmail.com)
 
 ## 📊 Estatísticas
