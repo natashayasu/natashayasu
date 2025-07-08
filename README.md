@@ -24,7 +24,7 @@
 
 ## 📊 Estatísticas
 
-<div align="left">
+<div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=natashayasu&show_icons=true&theme=dracula" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natashayasu&layout=compact&theme=dracula" />
 </div>
